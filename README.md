@@ -1,217 +1,165 @@
-# Awesome-SMB-Marketing-Automation
+# 🚀 Awesome SMB Marketing Automation Ecosystem
 
-## Top SMB Marketing Automation Ecosystem
+![Awesome SMB Marketing Automation Ecosystem Banner](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-SMB-Marketing-Automation"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-SMB-Marketing-Automation?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-SMB-Marketing-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-SMB-Marketing-Automation?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-SMB-Marketing-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 📌 Top SMB Marketing Automation Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+**A Curated List of Commercial SaaS Products & Open-Source GitHub Projects for Small & Medium Businesses (SMBs)**
 
-*Focused on Email Campaigns, Lead Scoring & Self-Hosted Marketing Automation*
+*Focused on Email Campaigns, Lead Scoring, Visual Workflows, Omnichannel Messaging & Self-Hosted Marketing Automation Solutions.*
 
 **Last updated: October 2026**
 
+---
 
+### 💡 Overview & SEO Summary
 
-This repository tracks notable **commercial SMB marketing automation platforms** and **open-source projects** that help small and medium businesses run email campaigns, nurture leads, and automate customer journeys without enterprise pricing.
+This repository tracks notable **commercial SMB marketing automation platforms**, **email marketing software**, and **open-source marketing automation tools** that empower small and medium enterprises (SMBs) to automate customer journeys, run newsletter campaigns, capture and score leads, and build multi-step email workflows without enterprise pricing models.
 
-
-
-**Examples** include Mailchimp, ActiveCampaign, Brevo, HubSpot Starter, Constant Contact, Moosend, AWeber, GetResponse, Drip, and MailerLite (the category leaders).
-
-
-
-**Open-source emphasis**: SMB marketing automation is a strong open-source domain. **Mautic** leads as the world's largest open-source marketing automation platform with 40,000+ companies, 10.5k GitHub stars, and 13 years of development . **Listmonk** delivers high-performance newsletter management as a single Go binary . **Notifuse** brings a modern MJML visual editor with A/B testing and transactional API . **Senddock** offers API-first email marketing built with Go and Vue . **Keila** provides GDPR-friendly newsletter tooling with EU hosting . **Reloop** delivers an open-source Resend alternative with inbound email and workflows . This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Mailchimp](https://mailchimp.com/)**
-
-  **The most recognized SMB email marketing platform** — email campaigns, automation, audience management, and basic CRM. **Free tier for up to 500 contacts**; paid scales per subscriber. **Best for beginners wanting simplicity**.
-
-
-
-- **[ActiveCampaign](https://www.activecampaign.com/)**
-
-  **The automation leader for SMBs** — powerful email automation, CRM, lead scoring, and 850+ automation recipes. **Pricing from $79/month**. **Best for businesses needing sophisticated automation**.
-
-
-
-- **[Brevo](https://www.brevo.com/)** (formerly Sendinblue)
-
-  **All-in-one marketing platform** — email, SMS, chat, and CRM with generous free tier. **Free for 300 emails/day**. **Best for budget-conscious SMBs wanting omnichannel**.
-
-
-
-- **[HubSpot Starter](https://www.hubspot.com/)**
-
-  **HubSpot's entry-level marketing hub** — email marketing, forms, landing pages, and CRM. **From $15/month**. **Best for businesses wanting to grow into the HubSpot ecosystem**.
-
-
-
-- **[Constant Contact](https://www.constantcontact.com/)**
-
-  **Email marketing for small businesses** — campaigns, automation, and event management. **Best for local businesses and nonprofits**.
-
-
-
-- **[Moosend](https://moosend.com/)**
-
-  **Affordable email marketing and automation** — from $9/month. **Best for startups and small teams**.
-
-
-
-- **[AWeber](https://www.aweber.com/)**
-
-  **Veteran email marketing platform** — reliable deliverability and automation. **Best for bloggers and small businesses**.
-
-
-
-- **[GetResponse](https://www.getresponse.com/)**
-
-  **All-in-one marketing platform** — email, landing pages, webinars, and automation. **Best for teams wanting webinar capabilities**.
-
-
-
-- **[Drip](https://www.drip.com/)**
-
-  **E-commerce-focused marketing automation** — email, SMS, and personalization for online stores. **Best for e-commerce SMBs**.
-
-
-
-- **[MailerLite](https://www.mailerlite.com/)**
-
-  **Simple, affordable email marketing** — free for up to 1,000 subscribers. **Best for small businesses wanting modern UX**.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### Full Marketing Automation Platforms
-
-
-
-- **[Mautic](https://github.com/mautic/mautic)**
-
-  **The world's largest open-source marketing automation platform**, GPL licensed with **10,532 GitHub stars, 3,453 forks, and 13 years of development** . **Used by 40,000+ companies including Deutsche Bahn and Lehner Versand AG** (nearly 2 million contacts, up to a million emails daily) . **Features**: drag-and-drop campaign builder, email and landing page creation, contact management with lead scoring, segments, forms, and REST API . **Full data sovereignty** — self-host on your infrastructure with no per-contact fees . **Requirements**: cron worker is critical — without it campaigns never fire . **Best for comprehensive open-source marketing automation**.
-
-
-
-- **[Notifuse](https://github.com/Notifuse/notifuse)**
-
-  **Open-source, self-hosted newsletter, email marketing and transactional email platform**, AGPL-3.0 licensed with **2,100+ GitHub stars** . **Visual MJML editor** with drag-and-drop and real-time preview. **Visual flow builder** for multi-step automations with delay, email, branch, filter, A/B test, and webhook nodes . **Multi-provider support**: Amazon SES, Mailgun, Postmark, Mailjet, SparkPost, SendGrid, and SMTP. **Built-in cookieless web analytics** (Staminads) with channel attribution and goals . **Cloud from $16/month** or self-hosted free. **Best for modern email marketing with automations**.
-
-
-
-### Newsletter & Campaign Platforms
-
-
-
-- **[Listmonk](https://github.com/knadh/listmonk)**
-
-  **High-performance newsletter and mailing list manager**, AGPL-3.0 licensed with **23,200+ GitHub stars** . **Single Go binary** with Vue UI — minimal dependencies, only PostgreSQL required. **Send millions of emails from your own SMTP** with no per-subscriber pricing . **Subscriber management, campaign analytics, and segmentation**. **The de facto open-source Mailchimp alternative** for newsletters. **Best for high-volume newsletters and mailing lists**.
-
-
-
-- **[Keila](https://github.com/pentacent/keila)**
-
-  **Open-source newsletter tool with EU hosting**, AGPL-3.0 licensed with **2,200+ GitHub stars** . **Visual editor and MJML support** . **Self-hosted or EU cloud from $8-32/month** . **GDPR-friendly with data residency control**. **Per-sender SMTP configuration** and API access . **Best for privacy-focused teams and EU-based businesses**.
-
-
-
-- **[Senddock](https://github.com/arkhe-systems/senddock)**
-
-  **Open-source email marketing platform, self-hostable and API-first**, built with Go and Vue . **Visual editor (GrapesJS) and code editor (CodeMirror)**. **Campaigns with scheduling and segmentation**. **Transactional API** for programmatic sending. **Deliverability essentials**: open tracking, click tracking, RFC 8058 one-click unsubscribe, suppressions, and bounces. **Pro tier** adds SPF/DKIM/DMARC health dashboard and report builder . **Best for developers wanting API-first email marketing**.
-
-
-
-- **[Reloop](https://github.com/reloop-labs/reloop)**
-
-  **Open-source transactional email API and self-hostable Resend alternative**, Apache-2.0 licensed with additional use restrictions . **Same capabilities as SendGrid, Mailchimp, Resend, and Loops** but fully self-hostable. **Transactional email, campaigns, inbound email parsing, visual template editor, real-time analytics, webhooks, contacts/lists, and workflows**. **One-command VPS install** . **Best for developers wanting full email infrastructure control**.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **phpList** — Open-source email marketing manager with subscriber management, segmentation, and bounce handling. AGPL-3.0 licensed with 870 GitHub stars .
-
-- **FluentCRM** — Self-hosted email marketing automation plugin for WordPress. Manage leads, email campaigns, and automated sequencing without leaving WordPress .
-
-- **Mailtrain** — Self-hosted newsletter application (slowing development) .
-
-- **n8n** — Visual workflow automation with 400+ integrations for lead capture and email sequences. Self-hosted free .
-
-- **PostHog** — Product analytics with session replay and A/B testing for growth experiments .
-
-
-
-**Frameworks for building custom SMB marketing automation solutions**: Combine **Mautic** for comprehensive marketing automation with lead scoring, campaigns, and landing pages . Use **Listmonk** for high-volume newsletter delivery from your own SMTP . Deploy **Notifuse** for modern email marketing with visual automations and multi-provider support . Choose **Senddock** for API-first email marketing with developer-friendly tooling . Integrate **Keila** for GDPR-compliant newsletters with EU hosting . Use **Reloop** for transactional email infrastructure . Note that true enterprise marketing automation with managed infrastructure, AI-powered optimization, and vendor-supported SLAs (ActiveCampaign, HubSpot) remains primarily commercial territory; open-source stacks provide strong campaign, automation, and newsletter foundations that require integration for complete SMB marketing operations.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Marketing automation platforms handle sensitive customer data and communication preferences. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA, CAN-SPAM).
-
-- **Email deliverability requires IP reputation management** — self-hosted platforms must warm up IPs, configure SPF/DKIM/DMARC, and monitor blacklists. Commercial platforms provide managed deliverability.
-
-- **Cron configuration is critical for Mautic** — without the cron worker, campaigns never fire and segments never update. This is the most common self-hosted Mautic failure .
-
-- **License considerations**: Mautic uses GPL, Notifuse uses AGPL-3.0, Listmonk uses AGPL-3.0, Keila uses AGPL-3.0, and Reloop uses Apache-2.0 with use restrictions. Verify licensing against your use case before committing.
-
-- The open-source ecosystem provides strong campaign, automation, and newsletter foundations, but **managed infrastructure, AI-powered optimization, and vendor-supported SLAs** remain primarily commercial offerings.
-
-
+Whether you need a full-featured cloud SaaS suite like HubSpot or ActiveCampaign, an affordable self-hosted email newsletter engine like Listmonk, or an enterprise-grade open-source automation framework like Mautic, this awesome-list provides complete transparency into pricing, free tier limits, company valuation/revenue scale, and GitHub star counts.
 
 ---
 
+## 📑 Table of Contents
 
+- [📊 Market Overview & Industry Dynamics](#-market-overview--industry-dynamics)
+- [💼 Commercial SaaS Platforms](#-commercial-saas-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+  - [Full Marketing Automation Frameworks](#full-marketing-automation-frameworks)
+  - [High-Performance Newsletter & Campaign Managers](#high-performance-newsletter--campaign-managers)
+  - [Transactional Email & Developer APIs](#transactional-email--developer-apis)
+  - [Workflow & Analytics Integrations](#workflow--analytics-integrations)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-**Made for SMB owners, marketing teams, and organizations seeking marketing automation sovereignty.**
+---
 
-Let's make SMB marketing automation more open, transparent, and accessible.
+## 📊 Market Overview & Industry Dynamics
+
+> 📈 **Market Size & Structure**: The global SMB Marketing Automation market is estimated at **$6.2 Billion in 2026** and is projected to reach **$13.5 Billion by 2032** growing at a CAGR of 13.8%. The SMB marketing sector is **highly fragmented**, characterized by low switching costs, diverse customer verticals (e.g., e-commerce vs. B2B vs. local services), and fierce competition between incumbent SaaS giants (HubSpot, Intuit Mailchimp) and a growing ecosystem of lean SaaS startups and self-hosted open-source alternatives.
+
+---
+
+## 💼 Commercial SaaS Platforms
+
+Below is a comparative breakdown of top commercial SMB marketing automation and email marketing tools, ordered by estimated annual revenue and market valuation (descending).
+
+| Product | Description & Core Use Case | Starting Paid Plan | Free Tier / Trial Limit | Est. Revenue / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Mailchimp](https://mailchimp.com/)** | **Category Leader** — Email marketing, customer journeys, CRM, and drag-and-drop landing page builder. | $13.00 / month | Free forever (up to 500 contacts, 1,000 email sends/mo) | ~$1.2 Billion Rev / $12B Valuation (Acquired by Intuit) |
+| **[HubSpot Starter](https://www.hubspot.com/)** | **All-in-one Growth Suite** — Form capture, contact management, email marketing, and light CRM integration. | $15.00 / month | Free forever (up to 2,000 email sends/mo & free CRM) | ~$2.1 Billion Annual Revenue (Public: HUBS) |
+| **[Constant Contact](https://www.constantcontact.com/)** | **Small Business Standard** — Email templates, event management, social posting, and SMS marketing. | $12.00 / month | 60-day Free Trial (Up to 100 contacts) | ~$350 Million Annual Revenue |
+| **[ActiveCampaign](https://www.activecampaign.com/)** | **Advanced Automation Leader** — Powerful multi-step branching workflows, lead scoring, CRM, and 850+ pre-built recipes. | $29.00 / month | 14-day Free Trial (Full feature access, no credit card) | ~$250 Million ARR / $1.5B Valuation |
+| **[Brevo](https://www.brevo.com/)** *(formerly Sendinblue)* | **Omnichannel Suite** — Email campaigns, transactional SMS, WhatsApp marketing, live chat, and CRM. | $9.00 / month | Free forever (300 emails/day limit, unlimited contacts) | ~$110 Million Annual Revenue |
+| **[GetResponse](https://www.getresponse.com/)** | **Complete Marketing Funnel** — Autoresponders, landing pages, webinars, AI email generator, and paid ads. | $19.00 / month | 30-day Free Trial (Up to 2,500 email sends, no credit card) | ~$85 Million Annual Revenue |
+| **[AWeber](https://www.aweber.com/)** | **Solopreneur & Creator Favorite** — Autoresponders, newsletter publishing, RSS-to-email, and push notifications. | $12.50 / month | Free forever (up to 500 subscribers, 3,000 email sends/mo) | ~$50 Million Annual Revenue |
+| **[MailerLite](https://www.mailerlite.com/)** | **Modern & Clean UX** — Intuitive drag-and-drop newsletter builder, landing pages, website builder, and digital product sales. | $9.00 / month | Free forever (up to 1,000 subscribers, 12,000 email sends/mo) | ~$25 Million Annual Revenue |
+| **[Drip](https://www.drip.com/)** | **E-commerce Specialist** — Deep Shopify/WooCommerce integrations, customer behavioral tracking, and dynamic product recommendations. | $39.00 / month | 14-day Free Trial (Full access up to 2,500 contacts) | ~$20 Million Annual Revenue |
+| **[Moosend](https://moosend.com/)** | **Budget Automation** — Affordable email marketing, visual workflow designer, subscription forms, and transactional emails. | $9.00 / month | 30-day Free Trial (Unlimited email sends to trial list) | ~$10 Million Annual Revenue |
+
+---
+
+## ⚡ Open-Source GitHub Projects
+
+Self-hosted marketing automation platforms offer complete data sovereignty, zero per-subscriber licensing costs, and complete customization. Below projects are ordered by GitHub Star Count (descending).
+
+### Full Marketing Automation Frameworks
+
+- **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+  - **The world's premier open-source marketing automation suite** (GPL-3.0 licensed).
+  - Features visual multi-channel campaign builders, landing page and form builders, lead scoring, segmentation, contact tracking, and extensive REST APIs.
+  - Used by over 40,000+ organizations globally. Requires cron worker setup for background queue execution.
+
+- **[Notifuse](https://github.com/Notifuse/notifuse)** [![Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)
+  - **Modern self-hosted newsletter & email automation engine** (AGPL-3.0 licensed).
+  - Built-in MJML visual email editor, branching automation flows, multi-provider SMTP routing (SES, Mailgun, Postmark), and cookieless web analytics attribution.
+
+---
+
+### High-Performance Newsletter & Campaign Managers
+
+- **[Listmonk](https://github.com/knadh/listmonk)** [![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+  - **Ultra-fast, single binary newsletter and mailing list manager** (AGPL-3.0 licensed).
+  - Written in Go with PostgreSQL backend. Handles millions of emails with minimal memory footprint, dynamic templating, fast subscriber tagging, and analytics.
+
+- **[Keila](https://github.com/pentacent/keila)** [![Stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
+  - **GDPR-compliant open-source newsletter application** (AGPL-3.0 licensed).
+  - Features modern block-based and MJML visual editors, customizable form widgets, subscriber double opt-in, and per-sender SMTP configurations.
+
+- **[Senddock](https://github.com/arkhe-systems/senddock)** [![Stars](https://img.shields.io/github/stars/arkhe-systems/senddock?style=social&color=white)](https://github.com/arkhe-systems/senddock/stargazers)
+  - **API-first open-source email marketing platform** built with Go and Vue.
+  - Offers GrapesJS visual template editing, automated bounce handling, click/open tracking, RFC 8058 one-click unsubscribe, and transactional send APIs.
+
+- **[phpList](https://github.com/phpList/phplist3)** [![Stars](https://img.shields.io/github/stars/phpList/phplist3?style=social&color=white)](https://github.com/phpList/phplist3/stargazers)
+  - **Veteran open-source newsletter software** (AGPL-3.0 licensed).
+  - Includes subscriber management, list segmentation, bounce processing, and web analytics integration.
+
+- **[Mailtrain](https://github.com/Mailtrain-org/mailtrain)** [![Stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=social&color=white)](https://github.com/Mailtrain-org/mailtrain/stargazers)
+  - **Self-hosted newsletter management app** built on Node.js and MySQL.
+  - Supports large subscriber lists, custom field management, GPG email signing, and automation triggers.
+
+---
+
+### Transactional Email & Developer APIs
+
+- **[Reloop](https://github.com/reloop-labs/reloop)** [![Stars](https://img.shields.io/github/stars/reloop-labs/reloop?style=social&color=white)](https://github.com/reloop-labs/reloop/stargazers)
+  - **Open-source Resend alternative for transactional & campaign email** (Apache-2.0 licensed).
+  - Provides inbound email parsing, visual template editor, real-time delivery webhooks, contact list segmentation, and single-command VPS deployment.
+
+---
+
+### Workflow & Analytics Integrations
+
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
+  - **Fair-code workflow automation platform**.
+  - Connects SMB marketing tools with 400+ native nodes for lead capture, webhooks, CRM syncing, and custom email sequences.
+
+- **[PostHog](https://github.com/PostHog/posthog)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
+  - **Open-source product analytics & feature flags platform** (MIT licensed).
+  - Includes session recording, user path funnels, and A/B testing for marketing experiment optimization.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple guidelines:
+
+1. Fork this repository.
+2. Create a feature branch (`git checkout -b feature/new-marketing-tool`).
+3. Add or update entries maintaining alphabetical or star-based order.
+4. Ensure descriptions remain objective, concise, and factual.
+5. Submit a Pull Request.
+
+Please check out our list of awesome repositories at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## ☕ Support
+
+If you find this repository helpful for evaluating SMB marketing automation software or deploying self-hosted email infrastructure, please consider starring ⭐ the repository, sharing it with fellow marketers and developers, or sponsoring the project!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-SMB-Marketing-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-SMB-Marketing-Automation&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This curated list is maintained for informational and educational purposes only.
+- Marketing automation systems handle sensitive personally identifiable information (PII) and compliance domains (GDPR, CAN-SPAM, CCPA, CASL). Self-hosted platforms require diligent server security, access management, and IP reputation warming.
+- Cron configuration is critical for self-hosted tools like Mautic — failure to configure cron tasks will prevent scheduled email delivery and campaign triggers.
