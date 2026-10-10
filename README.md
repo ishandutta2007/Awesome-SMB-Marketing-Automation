@@ -24,7 +24,7 @@
 
 This repository tracks notable **commercial SMB marketing automation platforms**, **email marketing software**, and **open-source marketing automation tools** that empower small and medium enterprises (SMBs) to automate customer journeys, run newsletter campaigns, capture and score leads, and build multi-step email workflows without enterprise pricing models.
 
-Whether you need a full-featured cloud SaaS suite like HubSpot or ActiveCampaign, an affordable self-hosted email newsletter engine like Listmonk, or an enterprise-grade open-source automation framework like Mautic, this awesome-list provides complete transparency into pricing, free tier limits, company valuation/revenue scale, and GitHub star counts.
+Whether you need a full-featured cloud SaaS suite like HubSpot or ActiveCampaign, an affordable self-hosted email newsletter engine like Listmonk, or an enterprise-grade open-source automation framework like Mautic, this awesome-list provides complete transparency into pricing, free tier limits, company valuation/revenue scale, and GitHub Stars_Counts.
 
 ---
 
@@ -71,7 +71,7 @@ Below is a comparative breakdown of top commercial SMB marketing automation and 
 
 ## ⚡ Open-Source GitHub Projects
 
-Self-hosted marketing automation platforms offer complete data sovereignty, zero per-subscriber licensing costs, and complete customization. Below projects are ordered by GitHub Star Count (descending).
+Self-hosted marketing automation platforms offer complete data sovereignty, zero per-subscriber licensing costs, and complete customization. Below projects are ordered by GitHub Stars_Count (descending).
 
 ### Full Marketing Automation Frameworks
 
